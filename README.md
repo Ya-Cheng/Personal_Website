@@ -14,5 +14,25 @@ My first personal website project, built since 2022. Using **HTML**, **CSS**, an
 - JavaScript for interactivity
 
 ## Setup & Usage
-To view the website locally:https://ya-cheng.github.io/Personal_Website/
+To view the website locally:
 
+```bash
+git clone https://github.com/your-username/Piano.git
+cd Piano
+open index.html
+```
+
+## About
+
+Hi, I'm **Ya-Cheng** from Taiwan. Right now a sophomore studying Computer Science at UIUC. Have a great interest in designing websites. 
+
+## Future Improvements
+
+- Add better background 
+- Videos and other social media links
+- Multi-language support (e.g., English/Chinese)
+
+## Contact
+
+Feel free to reach out if you’d like to collaborate.  
+📧 Email: [kellyshieh88@gmail.com]
